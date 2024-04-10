@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg)]
+![MasterHead](https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">Elevating code with fervent innovation: Crafting tomorrow's digital landscapes</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mayank-gupta-1a5827201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-gupta-1a5827201/" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank.gupta.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank.gupta.03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hyperx retr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hyperx retr0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
